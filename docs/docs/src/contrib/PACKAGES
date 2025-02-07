@@ -1,0 +1,7 @@
+Package: xsdmExamples
+Version: 0.1.0
+Depends: R (>= 2.10)
+Imports: terra
+License: GPL (>= 3)
+MD5sum: 6e86e907142f8a09d95150aeb9ddc02c
+NeedsCompilation: no
