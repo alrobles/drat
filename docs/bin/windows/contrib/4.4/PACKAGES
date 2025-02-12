@@ -1,0 +1,6 @@
+Package: xsdmAux
+Version: 1.0
+Imports: Rcpp (>= 1.0.13), RcppParallel (>= 5.1.9)
+LinkingTo: Rcpp, RcppParallel
+License: GPL (>= 2)
+Archs: x64
