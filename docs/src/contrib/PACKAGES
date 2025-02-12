@@ -12,5 +12,5 @@ Version: 1.0
 Imports: Rcpp (>= 1.0.13), RcppParallel (>= 5.1.9)
 LinkingTo: Rcpp, RcppParallel
 License: GPL (>= 2)
-MD5sum: 7f4b28a84da774e931769ae4f3575b20
+MD5sum: 448dcf42974388fb6a33aea3127f2130
 NeedsCompilation: yes
